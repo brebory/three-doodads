@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "ThreeDoodads",
+  "version": "1",
+  "permissions" : [],
+  "app": {
+    "background": {
+      "scripts": ["app/background.js"]
+    }
+  },
+  "minimum_chrome_version": "27"
+}
